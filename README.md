@@ -16,7 +16,10 @@
 
 
 ## Kode Program
-1. Customer membuat ID transaksi customer
+1. Membuat dictionary untuk menyimpan data customer
+![Screenshot 2023-04-16 at 7 18 33 PM](https://user-images.githubusercontent.com/75265653/232309472-82e62d66-90b9-4293-8b73-459a8cc4f43f.png)
+
+2. Customer membuat ID transaksi customer
 ![Screenshot 2023-04-16 at 7 13 38 PM](https://user-images.githubusercontent.com/75265653/232309125-984222bd-95d4-40e8-9a75-44fe73df65e1.png)
 
 2. Customer memasukkan nama item, jumlah item dan harga item yang dibeli
@@ -26,12 +29,16 @@
 ![Screenshot 2023-04-16 at 7 16 05 PM](https://user-images.githubusercontent.com/75265653/232309277-97d4f367-76ee-47f5-82f1-5cc178ac9554.png)
 
 4. Customer bisa menghapus salah satu/seluruh item bila ingin membatalkan transaksi
+![Screenshot 2023-04-16 at 7 19 27 PM](https://user-images.githubusercontent.com/75265653/232309504-ac21325f-6499-4868-987b-e6e4024b78e5.png)
+
 5. Customer dapat mengecek kembali item yang dipesan
+![Screenshot 2023-04-16 at 7 20 27 PM](https://user-images.githubusercontent.com/75265653/232309547-22b074cc-d8c5-4840-8b95-9c8ef7d27f0b.png)
+
 6. Customer dapat menampilkan total pembelian yang perlu dibayar (ada diskon sesuai objective program)
-
-
+![Screenshot 2023-04-16 at 7 21 13 PM](https://user-images.githubusercontent.com/75265653/232309591-87c6f7b3-9372-4ac2-b652-5097cc0c0194.png)
 
 ## Hasil Test Case
+
 
 
 ## Conclusion/ Future Work
