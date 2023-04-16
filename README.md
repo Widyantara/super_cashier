@@ -38,8 +38,9 @@
 ![Screenshot 2023-04-16 at 7 21 13 PM](https://user-images.githubusercontent.com/75265653/232309591-87c6f7b3-9372-4ac2-b652-5097cc0c0194.png)
 
 ## Hasil Test Case
+![Screenshot 2023-04-16 at 7 26 49 PM](https://user-images.githubusercontent.com/75265653/232309889-1f6aaec5-883a-4b61-afbd-31e9f77ab471.png)
 
 
 
-## Conclusion/ Future Work
-
+## Conclusion
+Dalam pengembangan program cashier self-service ini, ada banyak hal yang perlu dipertimbangkan karena program ini masih memiliki keterbatasan yang mengakibatkan banyak masalah yang mungkin terjadi ketika digunakan oleh pengguna. Sistem self-service memiliki kelebihan dan kekurangan. Dari sisi kelebihannya, sistem ini dapat mengurangi biaya operasional. Namun, di sisi lain, jika terjadi masalah seperti bug yang fatal atau vulnerability, ini bisa menyebabkan kerugian yang besar, seperti yang terjadi pada perusahaan besar. Oleh karena itu, penting untuk terus mengembangkan program ini hingga menjadi program self-service yang lebih baik dan membantu pebisnis dalam menekan biaya operasional.
